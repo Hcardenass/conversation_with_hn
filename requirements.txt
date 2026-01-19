@@ -1,0 +1,10 @@
+streamlit>=1.26.0
+openai
+langchain-community
+langchain-core
+langchain-openai
+langchain==0.1.20
+pillow
+pydantic
+beautifulsoup4
+requests
